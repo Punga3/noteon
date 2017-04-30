@@ -1,0 +1,74 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+0	ebjfile.json	/^		["dx --dex --output=\\"build\/dex\/main.dex\\" build\/class",null]$/;"	s	array:cmds.1
+0	ebjfile.json	/^		["ecj -d build\/class\/ __all__java",null],$/;"	a	array:cmds
+0	ebjfile.json	/^		["ecj -d build\/class\/ __all__java",null],$/;"	s	array:cmds.0
+1	ebjfile.json	/^		["dx --dex --output=\\"build\/dex\/main.dex\\" build\/class",null]$/;"	a	array:cmds
+1	ebjfile.json	/^		["dx --dex --output=\\"build\/dex\/main.dex\\" build\/class",null]$/;"	z	array:cmds.1
+1	ebjfile.json	/^		["ecj -d build\/class\/ __all__java",null],$/;"	z	array:cmds.0
+A	src/cz/punga/noteon/data/Note.java	/^	C(0),CS(1),DB(1),D(2),DS(3),EB(3),E(4),F(5),FS(6),GB(6),G(7),GS(8),AB(8),A(9),AS(10),BB(10),B(1/;"	e	enum:Note	file:
+AB	src/cz/punga/noteon/data/Note.java	/^	C(0),CS(1),DB(1),D(2),DS(3),EB(3),E(4),F(5),FS(6),GB(6),G(7),GS(8),AB(8),A(9),AS(10),BB(10),B(1/;"	e	enum:Note	file:
+AS	src/cz/punga/noteon/data/Note.java	/^	C(0),CS(1),DB(1),D(2),DS(3),EB(3),E(4),F(5),FS(6),GB(6),G(7),GS(8),AB(8),A(9),AS(10),BB(10),B(1/;"	e	enum:Note	file:
+Aug	src/cz/punga/noteon/data/ChordFlavour.java	/^	M(Interval.M3,Interval.P5),m(Interval.m3,Interval.P5),Aug(Interval.M3,Interval.m6),Dim(Interval/;"	e	enum:ChordFlavour	file:
+B	src/cz/punga/noteon/data/Note.java	/^	C(0),CS(1),DB(1),D(2),DS(3),EB(3),E(4),F(5),FS(6),GB(6),G(7),GS(8),AB(8),A(9),AS(10),BB(10),B(1/;"	e	enum:Note	file:
+BB	src/cz/punga/noteon/data/Note.java	/^	C(0),CS(1),DB(1),D(2),DS(3),EB(3),E(4),F(5),FS(6),GB(6),G(7),GS(8),AB(8),A(9),AS(10),BB(10),B(1/;"	e	enum:Note	file:
+C	src/cz/punga/noteon/data/Note.java	/^	C(0),CS(1),DB(1),D(2),DS(3),EB(3),E(4),F(5),FS(6),GB(6),G(7),GS(8),AB(8),A(9),AS(10),BB(10),B(1/;"	e	enum:Note	file:
+CS	src/cz/punga/noteon/data/Note.java	/^	C(0),CS(1),DB(1),D(2),DS(3),EB(3),E(4),F(5),FS(6),GB(6),G(7),GS(8),AB(8),A(9),AS(10),BB(10),B(1/;"	e	enum:Note	file:
+ChordFlavour	src/cz/punga/noteon/data/ChordFlavour.java	/^	private ChordFlavour(Interval... i){$/;"	m	class:ChordFlavour	file:
+ChordFlavour	src/cz/punga/noteon/data/ChordFlavour.java	/^public enum ChordFlavour{$/;"	g
+D	src/cz/punga/noteon/data/Note.java	/^	C(0),CS(1),DB(1),D(2),DS(3),EB(3),E(4),F(5),FS(6),GB(6),G(7),GS(8),AB(8),A(9),AS(10),BB(10),B(1/;"	e	enum:Note	file:
+DB	src/cz/punga/noteon/data/Note.java	/^	C(0),CS(1),DB(1),D(2),DS(3),EB(3),E(4),F(5),FS(6),GB(6),G(7),GS(8),AB(8),A(9),AS(10),BB(10),B(1/;"	e	enum:Note	file:
+DS	src/cz/punga/noteon/data/Note.java	/^	C(0),CS(1),DB(1),D(2),DS(3),EB(3),E(4),F(5),FS(6),GB(6),G(7),GS(8),AB(8),A(9),AS(10),BB(10),B(1/;"	e	enum:Note	file:
+Dim	src/cz/punga/noteon/data/ChordFlavour.java	/^	M(Interval.M3,Interval.P5),m(Interval.m3,Interval.P5),Aug(Interval.M3,Interval.m6),Dim(Interval/;"	e	enum:ChordFlavour	file:
+E	src/cz/punga/noteon/data/Note.java	/^	C(0),CS(1),DB(1),D(2),DS(3),EB(3),E(4),F(5),FS(6),GB(6),G(7),GS(8),AB(8),A(9),AS(10),BB(10),B(1/;"	e	enum:Note	file:
+EB	src/cz/punga/noteon/data/Note.java	/^	C(0),CS(1),DB(1),D(2),DS(3),EB(3),E(4),F(5),FS(6),GB(6),G(7),GS(8),AB(8),A(9),AS(10),BB(10),B(1/;"	e	enum:Note	file:
+F	src/cz/punga/noteon/data/Note.java	/^	C(0),CS(1),DB(1),D(2),DS(3),EB(3),E(4),F(5),FS(6),GB(6),G(7),GS(8),AB(8),A(9),AS(10),BB(10),B(1/;"	e	enum:Note	file:
+FS	src/cz/punga/noteon/data/Note.java	/^	C(0),CS(1),DB(1),D(2),DS(3),EB(3),E(4),F(5),FS(6),GB(6),G(7),GS(8),AB(8),A(9),AS(10),BB(10),B(1/;"	e	enum:Note	file:
+G	src/cz/punga/noteon/data/Note.java	/^	C(0),CS(1),DB(1),D(2),DS(3),EB(3),E(4),F(5),FS(6),GB(6),G(7),GS(8),AB(8),A(9),AS(10),BB(10),B(1/;"	e	enum:Note	file:
+GB	src/cz/punga/noteon/data/Note.java	/^	C(0),CS(1),DB(1),D(2),DS(3),EB(3),E(4),F(5),FS(6),GB(6),G(7),GS(8),AB(8),A(9),AS(10),BB(10),B(1/;"	e	enum:Note	file:
+GS	src/cz/punga/noteon/data/Note.java	/^	C(0),CS(1),DB(1),D(2),DS(3),EB(3),E(4),F(5),FS(6),GB(6),G(7),GS(8),AB(8),A(9),AS(10),BB(10),B(1/;"	e	enum:Note	file:
+Interval	src/cz/punga/noteon/data/Interval.java	/^	private Interval(int sm){$/;"	m	class:Interval	file:
+Interval	src/cz/punga/noteon/data/Interval.java	/^public enum Interval{$/;"	g
+M	src/cz/punga/noteon/data/ChordFlavour.java	/^	M(Interval.M3,Interval.P5),m(Interval.m3,Interval.P5),Aug(Interval.M3,Interval.m6),Dim(Interval/;"	e	enum:ChordFlavour	file:
+M2	src/cz/punga/noteon/data/Interval.java	/^	U(0),m2(1),M2(2),m3(3),M3(4),P4(5),TT(6),P5(7),m6(8),M6(9),m7(10),M7(11);$/;"	e	enum:Interval	file:
+M3	src/cz/punga/noteon/data/Interval.java	/^	U(0),m2(1),M2(2),m3(3),M3(4),P4(5),TT(6),P5(7),m6(8),M6(9),m7(10),M7(11);$/;"	e	enum:Interval	file:
+M6	src/cz/punga/noteon/data/Interval.java	/^	U(0),m2(1),M2(2),m3(3),M3(4),P4(5),TT(6),P5(7),m6(8),M6(9),m7(10),M7(11);$/;"	e	enum:Interval	file:
+M7	src/cz/punga/noteon/data/Interval.java	/^	U(0),m2(1),M2(2),m3(3),M3(4),P4(5),TT(6),P5(7),m6(8),M6(9),m7(10),M7(11);$/;"	e	enum:Interval	file:
+Main	src/cz/punga/noteon/Main.java	/^public class Main{$/;"	c
+Note	src/cz/punga/noteon/data/Note.java	/^	private Note(int sm){$/;"	m	class:Note	file:
+Note	src/cz/punga/noteon/data/Note.java	/^public enum Note{$/;"	g
+P4	src/cz/punga/noteon/data/Interval.java	/^	U(0),m2(1),M2(2),m3(3),M3(4),P4(5),TT(6),P5(7),m6(8),M6(9),m7(10),M7(11);$/;"	e	enum:Interval	file:
+P5	src/cz/punga/noteon/data/Interval.java	/^	U(0),m2(1),M2(2),m3(3),M3(4),P4(5),TT(6),P5(7),m6(8),M6(9),m7(10),M7(11);$/;"	e	enum:Interval	file:
+TT	src/cz/punga/noteon/data/Interval.java	/^	U(0),m2(1),M2(2),m3(3),M3(4),P4(5),TT(6),P5(7),m6(8),M6(9),m7(10),M7(11);$/;"	e	enum:Interval	file:
+U	src/cz/punga/noteon/data/Interval.java	/^	U(0),m2(1),M2(2),m3(3),M3(4),P4(5),TT(6),P5(7),m6(8),M6(9),m7(10),M7(11);$/;"	e	enum:Interval	file:
+__java	ebjfile.json	/^		"__java":{$/;"	o	object:files
+add	src/cz/punga/noteon/data/Note.java	/^	public Note add(Interval i){$/;"	m	class:Note
+cmds	ebjfile.json	/^	"cmds":[$/;"	a
+cz.punga.noteon	src/cz/punga/noteon/Main.java	/^package cz.punga.noteon;$/;"	p
+cz.punga.noteon.data	src/cz/punga/noteon/data/ChordFlavour.java	/^package cz.punga.noteon.data;$/;"	p
+cz.punga.noteon.data	src/cz/punga/noteon/data/Interval.java	/^package cz.punga.noteon.data;$/;"	p
+cz.punga.noteon.data	src/cz/punga/noteon/data/Note.java	/^package cz.punga.noteon.data;$/;"	p
+e	ebjfile.json	/^			"e":".java",$/;"	s	object:files.__java
+files	ebjfile.json	/^	"files":{$/;"	o
+get	src/cz/punga/noteon/data/Interval.java	/^	public static Interval get(int sm){$/;"	m	class:Interval
+getIntervals	src/cz/punga/noteon/data/ChordFlavour.java	/^	public Interval[] getIntervals(){$/;"	m	class:ChordFlavour
+getSemitones	src/cz/punga/noteon/data/Interval.java	/^	public int getSemitones(){$/;"	m	class:Interval
+getSemitones	src/cz/punga/noteon/data/Note.java	/^	public int getSemitones(){$/;"	m	class:Note
+intervalTo	src/cz/punga/noteon/data/Note.java	/^	public Interval intervalTo(Note n){$/;"	m	class:Note
+intervals	src/cz/punga/noteon/data/ChordFlavour.java	/^	private final Interval[] intervals;$/;"	f	class:ChordFlavour	file:
+m	src/cz/punga/noteon/data/ChordFlavour.java	/^	M(Interval.M3,Interval.P5),m(Interval.m3,Interval.P5),Aug(Interval.M3,Interval.m6),Dim(Interval/;"	e	enum:ChordFlavour	file:
+m2	src/cz/punga/noteon/data/Interval.java	/^	U(0),m2(1),M2(2),m3(3),M3(4),P4(5),TT(6),P5(7),m6(8),M6(9),m7(10),M7(11);$/;"	e	enum:Interval	file:
+m3	src/cz/punga/noteon/data/Interval.java	/^	U(0),m2(1),M2(2),m3(3),M3(4),P4(5),TT(6),P5(7),m6(8),M6(9),m7(10),M7(11);$/;"	e	enum:Interval	file:
+m6	src/cz/punga/noteon/data/Interval.java	/^	U(0),m2(1),M2(2),m3(3),M3(4),P4(5),TT(6),P5(7),m6(8),M6(9),m7(10),M7(11);$/;"	e	enum:Interval	file:
+m7	src/cz/punga/noteon/data/Interval.java	/^	U(0),m2(1),M2(2),m3(3),M3(4),P4(5),TT(6),P5(7),m6(8),M6(9),m7(10),M7(11);$/;"	e	enum:Interval	file:
+main	src/cz/punga/noteon/Main.java	/^	public static void main(String[] args){$/;"	m	class:Main
+p	ebjfile.json	/^			"p":"src"$/;"	s	object:files.__java
+paths	ebjfile.json	/^	"paths":{$/;"	o
+sm	src/cz/punga/noteon/data/Interval.java	/^	final int sm;$/;"	f	class:Interval
+sm	src/cz/punga/noteon/data/Note.java	/^	final int sm;$/;"	f	class:Note
+src	ebjfile.json	/^		"src":"src\/"$/;"	s	object:paths
